@@ -1,0 +1,9 @@
+Include
+Lib
+Scripts
+share
+.env
+pyvenv.cfg
+
+# myenv/.gitignore
+# This file is used to ignore files and directories in the myenv virtual environment.
